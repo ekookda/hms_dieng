@@ -1,0 +1,1 @@
+c:\xampp\apache\bin\curl http://localhost/doorlock/pull.php
